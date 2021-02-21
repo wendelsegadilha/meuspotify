@@ -1,0 +1,68 @@
+body{
+	background-color: #000;
+	color: #fff; 
+}
+a{
+	color: #75BA2F;
+	
+}
+a:hover{
+	color: #75BA2F;
+}
+
+#logo img{
+	width: 150px;
+	height: 150px;
+}
+#logo p{
+	font-weight: bold;
+	color: #75BA2F;
+}
+
+#cabecalho{
+	margin-top: 3.5em;
+}
+.detalhesMusica{
+	font-size: x-small;
+}
+.tituloh4{
+	color: #75BA2F;
+	border: 1px dotted #75BA2F;
+	padding: 5px;
+}
+#imgPlay{
+	width: 35px;
+	height: 35px;
+}
+
+.imgAddMusica{
+	margin-right: 5px;
+	background-color: #75BA2F;
+	outline: none;
+}
+#dadosMusica{
+	margin-top: -5px;
+	margin-left: 40px;
+	margin-bottom: 2px;
+	border-bottom: 1px dotted #75BA2F;
+}
+
+.musicas-player{
+	cursor: pointer;
+}
+
+.musicas-player:hover{
+	cursor: pointer;
+	color: #75BA2F;
+}
+
+#musicplayer{
+	outline: none;
+}
+
+#imgRepeat{
+	cursor: pointer;
+	border: none;
+	outline: none;
+}
+
