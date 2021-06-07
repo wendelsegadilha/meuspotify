@@ -1,5 +1,5 @@
 # Meu Spotify
-Acesse aqui: [meuspotify](http://wendelsegadilha.xyz/meuspotify/)
+Acesse aqui: [meuspotify](https://meuspotify.herokuapp.com/)
 
 ### Funcionalidades
 - Cadastro de usuários
